@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  background-color: lightgray;
+}
+
+input{
+  width: 30%;
+  text-align: center;
+}
