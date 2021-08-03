@@ -22,7 +22,7 @@ const TrainSchedule = () => {
       } catch (e) {
         //if not successful display error message
         console.error("catch", e);
-        alert(e);
+        alert("Service is not available; please try again later.");
       }
     }
     fetchAllTrain();
